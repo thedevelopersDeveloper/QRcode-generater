@@ -60,6 +60,20 @@
     cursor: pointer;
     transition: background 0.3s ease, transform 0.2s ease;
   }
+  .download{
+    display:none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    background: #6a11cb;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    margin-left:9vw;
+    margin-top:1vw;
+  }
 
   button:hover {
     background: #2575fc;
